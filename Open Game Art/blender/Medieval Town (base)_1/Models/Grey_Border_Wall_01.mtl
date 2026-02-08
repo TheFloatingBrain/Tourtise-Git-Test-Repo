@@ -1,14 +1,3 @@
-#
-## Alias OBJ Material File
-# Exported from SketchUp, (c) 2000-2012 Trimble Navigation Limited
-
-newmtl Light_Stone
-Ka 0.000000 0.000000 0.000000
-Kd 0.882353 0.886275 0.901961
-Ks 0.330000 0.330000 0.330000
-
-newmtl Dark_Stone
-Ka 0.000000 0.000000 0.000000
-Kd 0.780392 0.784314 0.800000
-Ks 0.330000 0.330000 0.330000
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:252ea286eeea3d72aa6e0ea7623af9e080a1ae1c2593aa58c2c8595872338073
+size 330
