@@ -1,0 +1,330 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Config">
+      <UniqueIdentifier>{FA535FFB-25E1-3D20-B416-52F9BE21E06E}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEditorPerProjectUserSettings.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source">
+      <UniqueIdentifier>{F31BBDD1-B3E8-3BCC-9652-680E16935819}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\TGitTest3.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\TGitTest3Editor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Source\TGitTest3">
+      <UniqueIdentifier>{2E80FE02-6405-3C5F-911C-A5D67F77F588}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\TGitTest3\TGitTest3.Build.cs">
+      <Filter>Source\TGitTest3</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\TGitTest3\TGitTest3.cpp">
+      <Filter>Source\TGitTest3</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\TGitTest3\TGitTest3.h">
+      <Filter>Source\TGitTest3</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\TGitTest3\TGitTest3Character.cpp">
+      <Filter>Source\TGitTest3</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\TGitTest3\TGitTest3Character.h">
+      <Filter>Source\TGitTest3</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\TGitTest3\TGitTest3GameMode.cpp">
+      <Filter>Source\TGitTest3</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\TGitTest3\TGitTest3GameMode.h">
+      <Filter>Source\TGitTest3</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\TGitTest3\TGitTest3PlayerController.cpp">
+      <Filter>Source\TGitTest3</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\TGitTest3\TGitTest3PlayerController.h">
+      <Filter>Source\TGitTest3</Filter>
+    </ClInclude>
+    <Filter Include="Source\TGitTest3\Variant_Combat">
+      <UniqueIdentifier>{AA2A282C-0B51-332F-A47C-D5439D8A2178}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source\TGitTest3\Variant_Combat\AI">
+      <UniqueIdentifier>{E213D4A2-784C-3F92-9BEB-DDF700143CFD}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\TGitTest3\Variant_Combat\AI\CombatAIController.cpp">
+      <Filter>Source\TGitTest3\Variant_Combat\AI</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\TGitTest3\Variant_Combat\AI\CombatAIController.h">
+      <Filter>Source\TGitTest3\Variant_Combat\AI</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\TGitTest3\Variant_Combat\AI\CombatEnemy.cpp">
+      <Filter>Source\TGitTest3\Variant_Combat\AI</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\TGitTest3\Variant_Combat\AI\CombatEnemy.h">
+      <Filter>Source\TGitTest3\Variant_Combat\AI</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\TGitTest3\Variant_Combat\AI\CombatEnemySpawner.cpp">
+      <Filter>Source\TGitTest3\Variant_Combat\AI</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\TGitTest3\Variant_Combat\AI\CombatEnemySpawner.h">
+      <Filter>Source\TGitTest3\Variant_Combat\AI</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\TGitTest3\Variant_Combat\AI\CombatStateTreeUtility.cpp">
+      <Filter>Source\TGitTest3\Variant_Combat\AI</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\TGitTest3\Variant_Combat\AI\CombatStateTreeUtility.h">
+      <Filter>Source\TGitTest3\Variant_Combat\AI</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\TGitTest3\Variant_Combat\AI\EnvQueryContext_Danger.cpp">
+      <Filter>Source\TGitTest3\Variant_Combat\AI</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\TGitTest3\Variant_Combat\AI\EnvQueryContext_Danger.h">
+      <Filter>Source\TGitTest3\Variant_Combat\AI</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\TGitTest3\Variant_Combat\AI\EnvQueryContext_Player.cpp">
+      <Filter>Source\TGitTest3\Variant_Combat\AI</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\TGitTest3\Variant_Combat\AI\EnvQueryContext_Player.h">
+      <Filter>Source\TGitTest3\Variant_Combat\AI</Filter>
+    </ClInclude>
+    <Filter Include="Source\TGitTest3\Variant_Combat\Animation">
+      <UniqueIdentifier>{2024AB34-FD99-33E7-B37E-B1974832576C}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\TGitTest3\Variant_Combat\Animation\AnimNotify_CheckChargedAttack.cpp">
+      <Filter>Source\TGitTest3\Variant_Combat\Animation</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\TGitTest3\Variant_Combat\Animation\AnimNotify_CheckChargedAttack.h">
+      <Filter>Source\TGitTest3\Variant_Combat\Animation</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\TGitTest3\Variant_Combat\Animation\AnimNotify_CheckCombo.cpp">
+      <Filter>Source\TGitTest3\Variant_Combat\Animation</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\TGitTest3\Variant_Combat\Animation\AnimNotify_CheckCombo.h">
+      <Filter>Source\TGitTest3\Variant_Combat\Animation</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\TGitTest3\Variant_Combat\Animation\AnimNotify_DoAttackTrace.cpp">
+      <Filter>Source\TGitTest3\Variant_Combat\Animation</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\TGitTest3\Variant_Combat\Animation\AnimNotify_DoAttackTrace.h">
+      <Filter>Source\TGitTest3\Variant_Combat\Animation</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\TGitTest3\Variant_Combat\CombatCharacter.cpp">
+      <Filter>Source\TGitTest3\Variant_Combat</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\TGitTest3\Variant_Combat\CombatCharacter.h">
+      <Filter>Source\TGitTest3\Variant_Combat</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\TGitTest3\Variant_Combat\CombatGameMode.cpp">
+      <Filter>Source\TGitTest3\Variant_Combat</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\TGitTest3\Variant_Combat\CombatGameMode.h">
+      <Filter>Source\TGitTest3\Variant_Combat</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\TGitTest3\Variant_Combat\CombatPlayerController.cpp">
+      <Filter>Source\TGitTest3\Variant_Combat</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\TGitTest3\Variant_Combat\CombatPlayerController.h">
+      <Filter>Source\TGitTest3\Variant_Combat</Filter>
+    </ClInclude>
+    <Filter Include="Source\TGitTest3\Variant_Combat\Gameplay">
+      <UniqueIdentifier>{CA3B9A57-4A27-32F1-94ED-E7753703231D}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\TGitTest3\Variant_Combat\Gameplay\CombatActivationVolume.cpp">
+      <Filter>Source\TGitTest3\Variant_Combat\Gameplay</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\TGitTest3\Variant_Combat\Gameplay\CombatActivationVolume.h">
+      <Filter>Source\TGitTest3\Variant_Combat\Gameplay</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\TGitTest3\Variant_Combat\Gameplay\CombatCheckpointVolume.cpp">
+      <Filter>Source\TGitTest3\Variant_Combat\Gameplay</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\TGitTest3\Variant_Combat\Gameplay\CombatCheckpointVolume.h">
+      <Filter>Source\TGitTest3\Variant_Combat\Gameplay</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\TGitTest3\Variant_Combat\Gameplay\CombatDamageableBox.cpp">
+      <Filter>Source\TGitTest3\Variant_Combat\Gameplay</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\TGitTest3\Variant_Combat\Gameplay\CombatDamageableBox.h">
+      <Filter>Source\TGitTest3\Variant_Combat\Gameplay</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\TGitTest3\Variant_Combat\Gameplay\CombatDummy.cpp">
+      <Filter>Source\TGitTest3\Variant_Combat\Gameplay</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\TGitTest3\Variant_Combat\Gameplay\CombatDummy.h">
+      <Filter>Source\TGitTest3\Variant_Combat\Gameplay</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\TGitTest3\Variant_Combat\Gameplay\CombatLavaFloor.cpp">
+      <Filter>Source\TGitTest3\Variant_Combat\Gameplay</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\TGitTest3\Variant_Combat\Gameplay\CombatLavaFloor.h">
+      <Filter>Source\TGitTest3\Variant_Combat\Gameplay</Filter>
+    </ClInclude>
+    <Filter Include="Source\TGitTest3\Variant_Combat\Interfaces">
+      <UniqueIdentifier>{DDB56F45-7CF9-31F5-A9C7-A973C7CC0E28}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\TGitTest3\Variant_Combat\Interfaces\CombatActivatable.cpp">
+      <Filter>Source\TGitTest3\Variant_Combat\Interfaces</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\TGitTest3\Variant_Combat\Interfaces\CombatActivatable.h">
+      <Filter>Source\TGitTest3\Variant_Combat\Interfaces</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\TGitTest3\Variant_Combat\Interfaces\CombatAttacker.cpp">
+      <Filter>Source\TGitTest3\Variant_Combat\Interfaces</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\TGitTest3\Variant_Combat\Interfaces\CombatAttacker.h">
+      <Filter>Source\TGitTest3\Variant_Combat\Interfaces</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\TGitTest3\Variant_Combat\Interfaces\CombatDamageable.cpp">
+      <Filter>Source\TGitTest3\Variant_Combat\Interfaces</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\TGitTest3\Variant_Combat\Interfaces\CombatDamageable.h">
+      <Filter>Source\TGitTest3\Variant_Combat\Interfaces</Filter>
+    </ClInclude>
+    <Filter Include="Source\TGitTest3\Variant_Combat\UI">
+      <UniqueIdentifier>{9F96CD54-86CA-30D3-A372-85B71F80AE1A}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\TGitTest3\Variant_Combat\UI\CombatLifeBar.cpp">
+      <Filter>Source\TGitTest3\Variant_Combat\UI</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\TGitTest3\Variant_Combat\UI\CombatLifeBar.h">
+      <Filter>Source\TGitTest3\Variant_Combat\UI</Filter>
+    </ClInclude>
+    <Filter Include="Source\TGitTest3\Variant_Platforming">
+      <UniqueIdentifier>{4553BF00-87E1-302D-B707-001930990E8B}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source\TGitTest3\Variant_Platforming\Animation">
+      <UniqueIdentifier>{8B064077-5EDF-3302-88FE-C7216E9437B4}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\TGitTest3\Variant_Platforming\Animation\AnimNotify_EndDash.cpp">
+      <Filter>Source\TGitTest3\Variant_Platforming\Animation</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\TGitTest3\Variant_Platforming\Animation\AnimNotify_EndDash.h">
+      <Filter>Source\TGitTest3\Variant_Platforming\Animation</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\TGitTest3\Variant_Platforming\PlatformingCharacter.cpp">
+      <Filter>Source\TGitTest3\Variant_Platforming</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\TGitTest3\Variant_Platforming\PlatformingCharacter.h">
+      <Filter>Source\TGitTest3\Variant_Platforming</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\TGitTest3\Variant_Platforming\PlatformingGameMode.cpp">
+      <Filter>Source\TGitTest3\Variant_Platforming</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\TGitTest3\Variant_Platforming\PlatformingGameMode.h">
+      <Filter>Source\TGitTest3\Variant_Platforming</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\TGitTest3\Variant_Platforming\PlatformingPlayerController.cpp">
+      <Filter>Source\TGitTest3\Variant_Platforming</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\TGitTest3\Variant_Platforming\PlatformingPlayerController.h">
+      <Filter>Source\TGitTest3\Variant_Platforming</Filter>
+    </ClInclude>
+    <Filter Include="Source\TGitTest3\Variant_SideScrolling">
+      <UniqueIdentifier>{AC04E9B9-A64C-38F3-89DE-35471E24E5B1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source\TGitTest3\Variant_SideScrolling\AI">
+      <UniqueIdentifier>{12A25C3A-FE58-357C-987C-745F9BDEFFE6}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\TGitTest3\Variant_SideScrolling\AI\SideScrollingAIController.cpp">
+      <Filter>Source\TGitTest3\Variant_SideScrolling\AI</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\TGitTest3\Variant_SideScrolling\AI\SideScrollingAIController.h">
+      <Filter>Source\TGitTest3\Variant_SideScrolling\AI</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\TGitTest3\Variant_SideScrolling\AI\SideScrollingNPC.cpp">
+      <Filter>Source\TGitTest3\Variant_SideScrolling\AI</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\TGitTest3\Variant_SideScrolling\AI\SideScrollingNPC.h">
+      <Filter>Source\TGitTest3\Variant_SideScrolling\AI</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\TGitTest3\Variant_SideScrolling\AI\SideScrollingStateTreeUtility.cpp">
+      <Filter>Source\TGitTest3\Variant_SideScrolling\AI</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\TGitTest3\Variant_SideScrolling\AI\SideScrollingStateTreeUtility.h">
+      <Filter>Source\TGitTest3\Variant_SideScrolling\AI</Filter>
+    </ClInclude>
+    <Filter Include="Source\TGitTest3\Variant_SideScrolling\Gameplay">
+      <UniqueIdentifier>{F33BE30C-0FE5-3EF6-9B68-A82172D08C59}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\TGitTest3\Variant_SideScrolling\Gameplay\SideScrollingJumpPad.cpp">
+      <Filter>Source\TGitTest3\Variant_SideScrolling\Gameplay</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\TGitTest3\Variant_SideScrolling\Gameplay\SideScrollingJumpPad.h">
+      <Filter>Source\TGitTest3\Variant_SideScrolling\Gameplay</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\TGitTest3\Variant_SideScrolling\Gameplay\SideScrollingMovingPlatform.cpp">
+      <Filter>Source\TGitTest3\Variant_SideScrolling\Gameplay</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\TGitTest3\Variant_SideScrolling\Gameplay\SideScrollingMovingPlatform.h">
+      <Filter>Source\TGitTest3\Variant_SideScrolling\Gameplay</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\TGitTest3\Variant_SideScrolling\Gameplay\SideScrollingPickup.cpp">
+      <Filter>Source\TGitTest3\Variant_SideScrolling\Gameplay</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\TGitTest3\Variant_SideScrolling\Gameplay\SideScrollingPickup.h">
+      <Filter>Source\TGitTest3\Variant_SideScrolling\Gameplay</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\TGitTest3\Variant_SideScrolling\Gameplay\SideScrollingSoftPlatform.cpp">
+      <Filter>Source\TGitTest3\Variant_SideScrolling\Gameplay</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\TGitTest3\Variant_SideScrolling\Gameplay\SideScrollingSoftPlatform.h">
+      <Filter>Source\TGitTest3\Variant_SideScrolling\Gameplay</Filter>
+    </ClInclude>
+    <Filter Include="Source\TGitTest3\Variant_SideScrolling\Interfaces">
+      <UniqueIdentifier>{2575464F-4C5D-36C5-8BE2-DB715679DDF9}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\TGitTest3\Variant_SideScrolling\Interfaces\SideScrollingInteractable.cpp">
+      <Filter>Source\TGitTest3\Variant_SideScrolling\Interfaces</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\TGitTest3\Variant_SideScrolling\Interfaces\SideScrollingInteractable.h">
+      <Filter>Source\TGitTest3\Variant_SideScrolling\Interfaces</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\TGitTest3\Variant_SideScrolling\SideScrollingCameraManager.cpp">
+      <Filter>Source\TGitTest3\Variant_SideScrolling</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\TGitTest3\Variant_SideScrolling\SideScrollingCameraManager.h">
+      <Filter>Source\TGitTest3\Variant_SideScrolling</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\TGitTest3\Variant_SideScrolling\SideScrollingCharacter.cpp">
+      <Filter>Source\TGitTest3\Variant_SideScrolling</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\TGitTest3\Variant_SideScrolling\SideScrollingCharacter.h">
+      <Filter>Source\TGitTest3\Variant_SideScrolling</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\TGitTest3\Variant_SideScrolling\SideScrollingGameMode.cpp">
+      <Filter>Source\TGitTest3\Variant_SideScrolling</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\TGitTest3\Variant_SideScrolling\SideScrollingGameMode.h">
+      <Filter>Source\TGitTest3\Variant_SideScrolling</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\TGitTest3\Variant_SideScrolling\SideScrollingPlayerController.cpp">
+      <Filter>Source\TGitTest3\Variant_SideScrolling</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\TGitTest3\Variant_SideScrolling\SideScrollingPlayerController.h">
+      <Filter>Source\TGitTest3\Variant_SideScrolling</Filter>
+    </ClInclude>
+    <Filter Include="Source\TGitTest3\Variant_SideScrolling\UI">
+      <UniqueIdentifier>{F1471A81-A1C7-3CF0-8CA6-7FF4168A88C8}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\TGitTest3\Variant_SideScrolling\UI\SideScrollingUI.cpp">
+      <Filter>Source\TGitTest3\Variant_SideScrolling\UI</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\TGitTest3\Variant_SideScrolling\UI\SideScrollingUI.h">
+      <Filter>Source\TGitTest3\Variant_SideScrolling\UI</Filter>
+    </ClInclude>
+    <None Include="..\..\TGitTest3.uproject" />
+  </ItemGroup>
+</Project>

@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "TGitTest3",
+			"Path": "..\\Source\\TGitTest3.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "TGitTest3Editor",
+			"Path": "..\\Source\\TGitTest3Editor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}
