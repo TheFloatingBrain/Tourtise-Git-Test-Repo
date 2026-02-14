@@ -1,8 +1,0 @@
-{
-	"SourceFiles": [
-		"D:\\Unreal Projects\\TGit-Test\\Tourtise-Git-Test-Repo\\TGitTest3\\Source\\TGitTest3\\TGitTest3.Build.cs",
-		"D:\\Unreal Projects\\TGit-Test\\Tourtise-Git-Test-Repo\\TGitTest3\\Source\\TGitTest3.Target.cs",
-		"D:\\Unreal Projects\\TGit-Test\\Tourtise-Git-Test-Repo\\TGitTest3\\Source\\TGitTest3Editor.Target.cs"
-	],
-	"EngineVersion": "5.7.3"
-}
